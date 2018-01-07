@@ -3039,7 +3039,7 @@ body.side-push-panel.side-panel-open:not(.device-xxs):not(.device-xs):not(.devic
 
 
 /* ----------------------------------------------------------------
-	Page Title
+	Page Title#F5F5F5
 -----------------------------------------------------------------*/
 
 
@@ -11666,6 +11666,7 @@ body:not(.no-transition) #wrapper,
 }
 
 
+/*
 .css3-spinner {
 	position: fixed;
 	width: 100%;
@@ -11708,6 +11709,7 @@ body:not(.no-transition) #wrapper,
 	-webkit-animation-delay: -0.16s;
 	animation-delay: -0.16s;
 }
+*/
 
 
 @-webkit-keyframes bouncedelay {
@@ -11726,6 +11728,7 @@ body:not(.no-transition) #wrapper,
 }
 
 
+/*
 .css3-spinner > .css3-spinner-flipper {
 	width: 32px;
 	height: 32px;
@@ -11735,6 +11738,7 @@ body:not(.no-transition) #wrapper,
 	-webkit-animation: rotateplane 1.2s infinite ease-in-out;
 	animation: rotateplane 1.2s infinite ease-in-out;
 }
+*/
 
 
 @-webkit-keyframes rotateplane {
@@ -11757,6 +11761,7 @@ body:not(.no-transition) #wrapper,
 }
 
 
+/*
 .css3-spinner > .css3-spinner-double-bounce1,
 .css3-spinner > .css3-spinner-double-bounce2 {
 	width: 40px;
@@ -11773,6 +11778,7 @@ body:not(.no-transition) #wrapper,
 	-webkit-animation-delay: -1.0s;
 	animation-delay: -1.0s;
 }
+*/
 
 
 @-webkit-keyframes cssspinnerbounce {
@@ -11791,6 +11797,7 @@ body:not(.no-transition) #wrapper,
 }
 
 
+/*
 .css3-spinner > .css3-spinner-rect1,
 .css3-spinner > .css3-spinner-rect2,
 .css3-spinner > .css3-spinner-rect3,
@@ -11828,6 +11835,7 @@ body:not(.no-transition) #wrapper,
 	-webkit-animation-delay: -0.8s;
 	animation-delay: -0.8s;
 }
+*/
 
 
 @-webkit-keyframes stretchdelay {
@@ -11847,6 +11855,7 @@ body:not(.no-transition) #wrapper,
 
 
 
+/*
 .css3-spinner > .css3-spinner-cube1,
 .css3-spinner > .css3-spinner-cube2 {
 	width: 16px;
@@ -11862,6 +11871,7 @@ body:not(.no-transition) #wrapper,
 	-webkit-animation-delay: -0.9s;
 	animation-delay: -0.9s;
 }
+*/
 
 
 @-webkit-keyframes cubemove {
@@ -11892,6 +11902,7 @@ body:not(.no-transition) #wrapper,
 
 
 
+/*
 .css3-spinner > .css3-spinner-scaler {
 	width: 40px;
 	height: 40px;
@@ -11900,6 +11911,7 @@ body:not(.no-transition) #wrapper,
 	-webkit-animation: scaleout 1.0s infinite ease-in-out;
 	animation: scaleout 1.0s infinite ease-in-out;
 }
+*/
 
 
 @-webkit-keyframes scaleout {
